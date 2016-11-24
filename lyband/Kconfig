@@ -1,0 +1,12 @@
+config LIANYUN_BAND
+	bool "LIANYUN_BAND"
+	default n
+	---help---
+	  Lianyun Band Driver
+
+config LIANYUN_BAND_NEW
+	bool "LIANYUN_BAND_NEW"
+	default n
+	---help---
+	  Lianyun Band New Driver
+
